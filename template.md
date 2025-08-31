@@ -9,5 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis lorem ve
 ## Recommendations
 - Foo
 - Bar
+## Credits
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
 ---
 [![carrd](https://cdn.modrinth.com/data/cached_images/e9b94ba1e8efde9a83799ac6a59dd61103487692.png)](https://sage-axolotl.carrd.co/)
