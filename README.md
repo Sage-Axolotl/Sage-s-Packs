@@ -1,1 +1,1 @@
-Repository for SageAxolotl's Resource and Data Packs
+New Repository: https://codeberg.org/SageAxolotl/Sages-Packs
